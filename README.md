@@ -1,3 +1,1 @@
-- hello my name is zoe
-- i am a hobbyist web designer and developer preparing to conquer the world
-- (if not that, than conquering javascript would be just fine)
+- archived account from initial github setup
